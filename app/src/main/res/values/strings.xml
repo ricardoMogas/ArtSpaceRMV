@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ArtSpaceRMV</string>
+    <string name="meme">Meme</string>
+    <string name="meme_year">20XX</string>
+    <string name="frieren_face">Frieren</string>
+    <string name="frieren_year">20XX</string>
+    <string name="inmo_image">Inmortal</string>
+    <string name="Inmo_year">20XX</string>
+</resources>
